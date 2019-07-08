@@ -1,11 +1,7 @@
 111 sdfsdfsd 
 111
 222
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 456789
-=======
->>>>>>> 68eb40dea61ea25c74f850ecd403fbbbdd1b6387
->>>>>>> 6dc0f672b17b8df36a653162e179ad9678ecbabb
-=======
->>>>>>> 4f2ece70968040a7d3f2248f71ac89ba371f9081
+
+sdfsddfs
